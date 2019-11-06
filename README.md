@@ -1,4 +1,4 @@
-# RSA of Liu & Gardner (2018, J Neurosci)
+# RSA of Liu, Cable & Gardner (2018, J Neurosci)
 The aim of this datalad/git annex repo is to illustrate perhaps surprising properties of
 representational similarity analysis (RSA).
 
